@@ -1,4 +1,12 @@
-body {background-color:tan;}
-h1{color:green;}
+body {background-color:black;font-family:arial;color:white} /* For body:  Black background, text color white and arial font; */
+h1{color:grey;font-family:verdana} /* For h1 (title): text color grey and verdana font; */
 
+.maindiv {
+    background-color:white;
+    color:black;
+    width:300px;
+    padding:20px;
+    border-radius:25px;
+    align:center
+}
 
