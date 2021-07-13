@@ -7,7 +7,7 @@ h1{color:grey;font-family:verdana} /* For h1 (title): text color grey and verdan
     width:300px;
     padding:20px;
     border-radius:25px;
-    align:center
+    margin: auto;
 }
 
 
