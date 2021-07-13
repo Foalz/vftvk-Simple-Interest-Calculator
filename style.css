@@ -1,13 +1,13 @@
 body {background-color:black;font-family:arial;color:white} /* For body:  Black background, text color white and arial font; */
 h1{color:grey;font-family:verdana} /* For h1 (title): text color grey and verdana font; */
 
-.maindiv {
+.maindiv { 
     background-color:white;
     color:black;
     width:300px;
     padding:20px;
     border-radius:25px;
-    margin: auto;
+    margin: auto; /*Aligns the div content to the center of the page*/
 }
 
 
